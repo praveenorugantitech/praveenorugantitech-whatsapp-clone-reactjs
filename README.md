@@ -1,4 +1,4 @@
-# WhatsApp Clone developed using React JS and Firebase
+# WhatsApp Clone developed using React JS, Material UI and Firebase
 
 <div>
 <img align="right" width="100%"  src="./src/images/screenshot.PNG" />
