@@ -32,3 +32,4 @@ firebase-debug.log
 .eslintcache
 
 .env
+.env.production
