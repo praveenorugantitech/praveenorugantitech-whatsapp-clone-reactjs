@@ -5,7 +5,7 @@
 </div>
 
 
-[Live Demo](https://praveenoruganti-whatsapp.firebaseapp.com/)
+[Live Demo](https://praveenoruganti-whatsapp-clone.firebaseapp.com/)
 
 
 
