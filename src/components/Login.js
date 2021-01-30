@@ -1,7 +1,7 @@
 import React from "react";
 import "./Login.css";
 import { Button } from "@material-ui/core";
-import { authentication, provider } from "../firebase";
+import { authentication, provider } from "../config/firebase";
 import { useStateValue } from "../StateProvider";
 import { actionTypes } from "../reducer";
 

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./Chats.css";
 import { Avatar } from "@material-ui/core";
-import { database } from "../firebase";
+import { database } from "../config/firebase";
 import { Link } from "react-router-dom";
 
 function Chats({ addChat, id, name }) {

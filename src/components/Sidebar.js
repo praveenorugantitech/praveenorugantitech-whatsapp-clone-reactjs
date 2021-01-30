@@ -6,7 +6,7 @@ import DonutLargeIcon from "@material-ui/icons/DonutLarge";
 import MoreVertIcon from "@material-ui/icons/MoreVert";
 import SearchIcon from "@material-ui/icons/Search";
 import Chats from "./Chats";
-import { database } from "../firebase";
+import { database } from "../config/firebase";
 import { useStateValue } from "../StateProvider";
 function Sidebar() {
   const [rooms, setrooms] = useState([]);

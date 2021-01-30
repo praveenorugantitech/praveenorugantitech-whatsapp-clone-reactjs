@@ -9,7 +9,7 @@ import MoreVertIcon from "@material-ui/icons/MoreVert";
 import SentimentVerySatisfiedIcon from "@material-ui/icons/SentimentVerySatisfied";
 import MicIcon from "@material-ui/icons/Mic";
 import { useParams } from "react-router-dom";
-import { database } from "../firebase";
+import { database } from "../config/firebase";
 import { useStateValue } from "../StateProvider";
 function ChatRoom() {
   const [input, setinput] = useState("");
