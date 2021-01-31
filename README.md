@@ -2,7 +2,7 @@
 
 ### App Screenshots
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-whatsapp-clone-reactjs/master/src/images/screenshot.png)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-whatsapp-clone-reactjs/master/src/images/screenshot.PNG)
 
 
 ### Live Demo
